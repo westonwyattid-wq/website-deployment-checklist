@@ -2,7 +2,7 @@
 title: Before You Publish: A Website Deployment Checklist for Small Teams
 ---
 
-##Before You Publish: A Deployment Checklist for Small Teams
+##Before You Publish: A Deployment Checklist for Small Teams##
 
 A site can look fine in development and still break once it’s live. A missing image. A wrong URL. A setting nobody remembered. Any of them can reach your visitors.
 
